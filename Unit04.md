@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL404: English Romantic Poetry"
+course_description: "A survey of English Romantic poetry and the historical, literary and philosophical contexts of the English Romantic poetic movement. Poets examined include William Blake, William Wordsworth, Samuel Taylor Coleridge, Lord Byron, Percy Shelley, and John Keats."
+next: ../../../
+previous: ../Unit03
+---
 **Unit 4: The Romantic Craft: Poesis, Innovation, and Experiment** <span
 id="4"></span> 
 *In this unit, we will take a look at what it meant to be a writing
