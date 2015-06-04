@@ -104,4 +104,9 @@ higher on the Final Exam. Your score on the exam will be tabulated as
 soon as you complete it. If you do not pass the exam, you may take it
 again.  
     
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/engl404/Unit01/)
+- [Unit 2](https://legacy.saylor.org/engl404/Unit02/)
+- [Unit 3](https://legacy.saylor.org/engl404/Unit03/)
+- [Unit 4](https://legacy.saylor.org/engl404/Unit04/)
