@@ -71,7 +71,7 @@ id="1.1.1"></span> 
 
     Link: The Victorian Web's Dr. David Cody’s Brief Introduction to the
     “[French
-    Revolution](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-French-Revolution.pdf)”
+    Revolution](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-French-Revolution.pdf)”
     (PDF)  
         
      Instructions: Read Dr. Cody’s brief introduction to the French
@@ -89,11 +89,11 @@ id="1.1.2"></span> 
     Thomas Paine’s *The Rights of Man*: “Part One” and “Part Two”**
 
     Link: Edmund Burke’s “[Reflections on the French
-    Revolution](http://www.saylor.org/site/wp-content/uploads/2014/05/ENGL404-Burke-Reflections-on-the-French-Revolution.pdf)*” *(PDF)
+    Revolution](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Burke-Reflections-on-the-French-Revolution.pdf)*” *(PDF)
     and Thomas Paine’s *The Rights of Man*: “[Part
-    One](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-The-Rights-of-Man-%E2%80%93-Part-One.pdf)”
+    One](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-The-Rights-of-Man-%E2%80%93-Part-One.pdf)”
     (PDF) and “[Part
-    Two](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-The-Rights-of-Man-%E2%80%93-Part-Two.pdf)”
+    Two](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-The-Rights-of-Man-%E2%80%93-Part-Two.pdf)”
     (PDF)  
         
      Instructions: Read the selection from Burke’s conservative letter
@@ -164,7 +164,7 @@ Rise of the Urban, Working Class** <span id="1.1.5"></span> 
     Romantic Spirit”**
     Link: The Saylor Foundation: “[The Industrial Revolution and the
     Romantic
-    Spirit](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-The-Industrial-Revolution-and-the-Romantic-Spirit.pdf)”
+    Spirit](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-The-Industrial-Revolution-and-the-Romantic-Spirit.pdf)”
     (PDF)  
         
      Instructions: Read the essay, which will provide you with the
@@ -333,7 +333,7 @@ id="1.2.2"></span> 
 -   **Reading: The Victorian Web's “Neoclassicism: An Introduction”**
 
     Link: The Victorian Web's “[Neoclassicism: An
-    Introduction](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Neoclassicism-an-Introduction.pdf)”
+    Introduction](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Neoclassicism-an-Introduction.pdf)”
     (PDF)  
         
      Instructions: Read through this brief introduction to the concept
@@ -348,7 +348,7 @@ id="1.2.2"></span> 
 
 -   **Reading: The Saylor Foundation: “How to Read a Poem”**
     Link: The Saylor Foundation: “[How to Read a
-    Poem](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-How-to-Read-a-Poem.pdf)”
+    Poem](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-How-to-Read-a-Poem.pdf)”
     (PDF)  
         
      Instructions: Read the article above, as it will provide you with
@@ -379,7 +379,7 @@ id="1.2.2"></span> 
 id="1.2.3"></span> 
 -   **Reading: Dr. Lilia Melani’s “Introduction to Romanticism”**
     Link: Dr. Lilia Melani’s “[Introduction to
-    Romanticism](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-Introduction-to-Romanticism-Lilia-Milani.pdf)”
+    Romanticism](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Introduction-to-Romanticism-Lilia-Milani.pdf)”
     (PDF)  
         
      Instructions: Read Dr. Melani’s introduction to the tenets of
@@ -406,7 +406,7 @@ id="1.2.3"></span> 
     English Poetry”**
     Link: Dr. Ian Johnston’s “[Introduction to the Romantic Era in
     English
-    Poetry](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-Johnston-Introduction-to-the-Romantic-Era-in-English-Poetry.pdf)”
+    Poetry](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Johnston-Introduction-to-the-Romantic-Era-in-English-Poetry.pdf)”
     (PDF)  
         
      Instructions: Read Dr. Johnston’s useful Introduction to the
@@ -424,7 +424,7 @@ id="1.2.3"></span> 
 id="1.3.2"></span> 
 -   **Reading: The Saylor Foundation: “William Blake”**
     Link: The Saylor Foundation: “[William
-    Blake](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-William-Blake-Saylor.pdf)”
+    Blake](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-William-Blake-Saylor.pdf)”
     (PDF)  
         
      Instructions: Read the brief article about William Blake.  
@@ -456,7 +456,7 @@ id="1.3.2"></span> 
 -   **Reading: The Victorian Web: Dr. George P. Landow’s “Romantic
     Nature”**
     Link: The Victorian Web: Dr. George P. Landow’s “[Romantic
-    Nature](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-Romantic-Nature.pdf)”
+    Nature](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Romantic-Nature.pdf)”
     (PDF)  
         
      Instructions: Read Dr. Landow’s introduction to the role of nature
@@ -490,7 +490,7 @@ id="1.3.2"></span> 
 **1.3.3 Immediacy of Expression** <span id="1.3.3"></span> 
 -   **Reading: The Saylor Foundation: “William Wordsworth (1770–1850)”**
     Link: The Saylor Foundation: “[William Wordsworth
-    (1770–1850)](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-William-Wordsworth-Saylor.pdf)”
+    (1770–1850)](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-William-Wordsworth-Saylor.pdf)”
     (PDF)  
         
      Instructions: Read this brief entry on William Wordsworth.  
@@ -499,7 +499,7 @@ id="1.3.2"></span> 
 
 -   **Reading: William Wordsworth’s “A Night-Piece”**
     Link: William Wordsworth’s “[A
-    Night-Piece](http://www.saylor.org/site/wp-content/uploads/2014/05/ENGL404-Wordsworth-A-NIGHT-Piece.pdf)”
+    Night-Piece](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Wordsworth-A-NIGHT-Piece.pdf)”
     (PDF)  
         
      Instructions: Read Wordsworth’s poem. In this poem, Wordsworth
@@ -518,7 +518,7 @@ id="1.3.2"></span> 
 -   **Reading: The Saylor Foundation: “Samuel Taylor Coleridge
     (1772–1834)”**
     Link: The Saylor Foundation: “[Samuel Taylor Coleridge
-    (1772–1834)](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-Samuel-Taylor-Coleridge-Saylor.pdf)”
+    (1772–1834)](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Samuel-Taylor-Coleridge-Saylor.pdf)”
     (PDF)  
         
      Instructions: Read this brief article on Samuel Taylor.  
@@ -528,7 +528,7 @@ id="1.3.2"></span> 
 -   **Reading: Samuel Taylor Coleridge’s “The Picture or the Lover’s
     Resolution”**
     Link: Samuel Taylor Coleridge’s “[The Picture or the Lover’s
-    Resolution](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-Coleridge-The-Picture-or-the-Lover%E2%80%99s-Resolution.pdf)”
+    Resolution](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Coleridge-The-Picture-or-the-Lover%E2%80%99s-Resolution.pdf)”
     (PDF)  
         
      Instructions: Read Coleridge’s poem. In this lively adventure poem,
@@ -543,7 +543,7 @@ id="1.3.2"></span> 
 **1.3.5 A New Poetics** <span id="1.3.5"></span> 
 -   **Reading: William Wordsworth’s “Advertisement to Lyrical Ballads”**
     Link: William Wordsworth’s “[Advertisement to Lyrical
-    Ballads](http://www.saylor.org/site/wp-content/uploads/2014/05/ENGL404-Wordsworth-Advertisement-to-lyrical-ballads.pdf)”
+    Ballads](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Wordsworth-Advertisement-to-lyrical-ballads.pdf)”
     (PDF)  
         
      Instructions: Read Wordsworth’s advertisement.  
@@ -591,7 +591,7 @@ id="1.3.2"></span> 
 **1.3.6 Roots in Folklore** <span id="1.3.6"></span> 
 -   **Reading: William Wordsworth’s *Goody Blake and Harry Gill***
     Link: William Wordsworth’s [*Goody Blake and Harry
-    Gill*](http://www.saylor.org/site/wp-content/uploads/2014/05/ENGL404-Wordsworth-Goody-Blake-and-Harry-Gill.pdf) (PDF)  
+    Gill*](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Wordsworth-Goody-Blake-and-Harry-Gill.pdf) (PDF)  
         
      Instructions: Read William Wordsworth’s poem *Goody Blake and Harry
     Gill*. How does the poem fit into Wordsworth’s strategy of producing

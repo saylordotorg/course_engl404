@@ -77,7 +77,7 @@ id="2.1.2"></span> 
 **2.1.3 Spontaneity and Emotion** <span id="2.1.3"></span> 
 -   **Reading: Percy Bysshe Shelley’s “Hymn to Intellectual Beauty”**
     Link: Percy Bysshe Shelley’s “[Hymn to Intellectual
-    Beauty](http://www.saylor.org/site/wp-content/uploads/2014/05/ENGL404-Shelley-Hymn-to-Intellectual-Beauty.pdf)”
+    Beauty](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Shelley-Hymn-to-Intellectual-Beauty.pdf)”
     (PDF)  
         
      Instructions: Read Shelley’s poem. Focus on Shelley’s use of irony
@@ -93,7 +93,7 @@ id="2.1.2"></span> 
 -   **Reading: William Wordsworth’s “Lines Left upon a Seat in a
     Yew-Tree”**
     Link: William Wordsworth’s “[Lines Left upon a Seat in a
-    Yew-Tree](http://www.saylor.org/site/wp-content/uploads/2014/05/ENGL404-Wordsworth-Left-upon-a-Seat-in-a-Yew-tree.pdf)”
+    Yew-Tree](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Wordsworth-Left-upon-a-Seat-in-a-Yew-tree.pdf)”
     (PDF)  
         
      Instructions: Read William Wordsworth’s poem. In their poems, both
@@ -109,7 +109,7 @@ id="2.1.2"></span> 
 id="2.1.4"></span> 
 -   **Reading: John Clare’s “To Elia”**
     Links: John Clare’s “[To
-    Elia](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-CLARE-TO-ELIA.docx.pdf)”
+    Elia](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-CLARE-TO-ELIA.docx.pdf)”
     (PDF)  
         
      Instructions: Read Clare’s poem. The *imagination* was a major
@@ -123,7 +123,7 @@ id="2.1.4"></span> 
 
 -   **Reading: William Wordsworth’s “Peter Bell: A Tale”**
     Link: William Wordsworth’s “[Peter Bell: A
-    Tale](http://www.saylor.org/site/wp-content/uploads/2014/05/ENGL404-Wordsworth-Peter-Bell.pdf)”
+    Tale](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Wordsworth-Peter-Bell.pdf)”
     (PDF)  
         
      Instructions: Read William Wordsworth’s poem. How does Peter Bell’s
@@ -138,7 +138,7 @@ id="2.1.4"></span> 
 **2.1.5 A New Type of Hero: Byronic Heroism** <span id="2.1.5"></span> 
 -   **Reading: The Saylor Foundation’s “Byronic Heroism”**
     Link: The Saylor Foundation's “[Byronic
-    Heroism](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-Byronic-Heroism.pdf)”
+    Heroism](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Byronic-Heroism.pdf)”
     (PDF)  
         
      Instructions: Read the article. What are the prevailing qualities
@@ -150,7 +150,7 @@ id="2.1.4"></span> 
 
 -   **Reading: Lord Byron’s “Manfred”**
     Link: Lord Byron’s
-    [“Manfred”](http://www.saylor.org/site/wp-content/uploads/2014/06/ENGL404-Lord-Byron-Manfred.pdf) (PDF)  
+    [“Manfred”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/ENGL404-Lord-Byron-Manfred.pdf) (PDF)  
         
      Instructions: Read Byron’s play *Manfred*. What qualities of the
     Byronic hero does the character Manfred portray? What are the
@@ -165,7 +165,7 @@ id="2.1.4"></span> 
 <span id="2.2"></span> 
 -   **Reading: John Keats’ “La Belle Dame Sans Merci”**
     Link: John Keats’ [“La Belle Dame Sans
-    Merci”](http://www.saylor.org/site/wp-content/uploads/2014/06/ENGL404-Keats-LaBelle-Dame-Sans-Merci1.pdf)
+    Merci”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/ENGL404-Keats-LaBelle-Dame-Sans-Merci1.pdf)
     (PDF)  
         
      Instructions: Read the ballad “La Belle Dame Sans Merci.” This poem
@@ -187,7 +187,7 @@ id="2.1.4"></span> 
 **2.2.1 The Beauty of Melancholy** <span id="2.2.1"></span> 
 -   **Reading: John Keats’ “Ode on Melancholy”**
     Link: John Keats’ [“Ode on
-    Melancholy”](http://www.saylor.org/site/wp-content/uploads/2014/06/ENGL404-Keats-Ode-on-Melancholy.pdf)
+    Melancholy”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/ENGL404-Keats-Ode-on-Melancholy.pdf)
     (PDF)  
         
      Instructions: Read the poem “Ode on Melancholy” by John Keats. In
@@ -200,7 +200,7 @@ id="2.1.4"></span> 
 **2.2.2 Dejection and Solitude** <span id="2.2.2"></span> 
 -   **Reading: Samuel Taylor Coleridge’s “Dejection: An Ode”**
     Link: Samuel Taylor Coleridge’s “[Dejection: An
-    Ode](http://www.saylor.org/site/wp-content/uploads/2014/05/ENGL404-Coleridge-Dejection-an-Ode.pdf)”
+    Ode](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Coleridge-Dejection-an-Ode.pdf)”
     (PDF)  
         
      Instructions: Read Coleridge’s poem. How does the speaker’s
@@ -214,7 +214,7 @@ id="2.1.4"></span> 
 -   **Reading: P. B. Shelley’s “Stanzas Written in Dejection Near
     Naples”**
     Links: P. B. Shelley’s “[Stanzas Written in Dejection Near
-    Naples](http://www.saylor.org/site/wp-content/uploads/2014/05/ENGL404-shelley-Stanzas-written-in-dejection-near-naples.pdf)”
+    Naples](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-shelley-Stanzas-written-in-dejection-near-naples.pdf)”
     (PDF)  
         
      Instructions: Read Percy Bysshe Shelley’s poem. The Romantics were
@@ -230,7 +230,7 @@ id="2.1.4"></span> 
 -   **Reading: William Wordsworth’s “The Complaint of a Forsaken Indian
     Woman”**
     Link: William Wordsworth’s “[The Complaint of a Forsaken Indian
-    Woman](http://www.saylor.org/site/wp-content/uploads/2014/05/ENGL404-wordsworth-THE-COMPLAINT-OF-A-FORSAKEN-INDIAN-WOMAN.pdf)”
+    Woman](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-wordsworth-THE-COMPLAINT-OF-A-FORSAKEN-INDIAN-WOMAN.pdf)”
     (PDF)  
         
      Instructions: Read Wordsworth’s poem. How does this poem represent
@@ -247,9 +247,9 @@ id="2.3.1"></span> 
 -   **Reading: William Wordsworth’s “We Are Seven” and “Lines Written in
     Early Spring”**
     Links: William Wordsworth’s “[We Are
-    Seven](http://www.saylor.org/site/wp-content/uploads/2014/05/ENGL404-wordsworth-we-are-seven.pdf)”
+    Seven](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-wordsworth-we-are-seven.pdf)”
     (PDF) and “[Lines Written in Early
-    Spring](http://www.saylor.org/site/wp-content/uploads/2014/05/ENGL404-wordsworth-lines-writen-in-early-spring.pdf)”
+    Spring](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-wordsworth-lines-writen-in-early-spring.pdf)”
     (PDF)  
         
      Instructions: Read both of Wordsworth’s poems. Many of Wordsworth’s
@@ -264,7 +264,7 @@ id="2.3.1"></span> 
 **2.3.2 Concepts of Innocence** <span id="2.3.2"></span> 
 -   **Reading: Samuel Taylor Coleridge’s “Frost at Midnight”**
     Link: Samuel Taylor Coleridge’s “[Frost at
-    Midnight](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Coleridge-Frost-at-Midnight.pdf)”
+    Midnight](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Coleridge-Frost-at-Midnight.pdf)”
     (PDF)  
         
      Instructions: Read Coleridge’s poem. How do the subjective
@@ -279,7 +279,7 @@ id="2.3.1"></span> 
     Is Expected Soon to Become Visible”**
     Link: Anna Laetitia Barbauld’s “[To a Little Invisible Being Who Is
     Expected Soon to Become
-    Visible](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Anna-Laetitia-Barbauld-To-a-little-invisible-being.pdf)”
+    Visible](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Anna-Laetitia-Barbauld-To-a-little-invisible-being.pdf)”
     (PDF)  
         
      Instructions: Read Barbauld’s poem. *Innocence* was a major theme
@@ -295,7 +295,7 @@ id="2.3.1"></span> 
     from Recollections of Early Childhood”**
     Link: William Wordsworth’s “[Ode: Intimations of Immortality from
     Recollections of Early
-    Childhood](http://www.saylor.org/site/wp-content/uploads/2014/05/ENGL404-wordsworth-Ode-Intimations-of-Immortality-.pdf)”
+    Childhood](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-wordsworth-Ode-Intimations-of-Immortality-.pdf)”
     (PDF)  
         
      Instructions: Read Wordsworth’s ode. How does the speaker differ
@@ -310,9 +310,9 @@ id="2.3.1"></span> 
 -   **Reading: William Blake’s “Songs of Innocence” and “Songs of
     Experience”**
     Links: William Blake’s “[Songs of
-    Innocence](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-Blake-Songs-of-Innocence-Selections.pdf)” (PDF)
+    Innocence](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Blake-Songs-of-Innocence-Selections.pdf)” (PDF)
     and *“*[Songs of
-    Experience](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-Blake-Songs-of-Experience-Selections.pdf)”
+    Experience](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Blake-Songs-of-Experience-Selections.pdf)”
     (PDF)  
         
      Instructions: Read Blake’s Songs of Innocence: *Introduction*, *The
@@ -353,7 +353,7 @@ id="2.3.1"></span> 
 **2.3.5 Experience and Self-Formation** <span id="2.3.5"></span> 
 -   **Reading: William Wordsworth’s *The Prelude - Book Fifth***
     Link: William Wordsworth’s *[The Prelude - Book
-    Fifth](http://www.saylor.org/site/wp-content/uploads/2014/05/ENGL404-wordsworth-the-prelude-book-fifth.pdf)* (PDF)  
+    Fifth](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-wordsworth-the-prelude-book-fifth.pdf)* (PDF)  
         
      Instructions: Read *The Prelude - Book Fifth*. What statements does
     the speaker make about his own personal history, and how do they
@@ -366,9 +366,9 @@ id="2.3.1"></span> 
 -   **Reading: William Blake’s “Songs of Innocence” and “Songs of
     Experience”**
     Links: William Blake’s “[Songs of
-    Innocence](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-Blake-Songs-of-Innocence-Selections-2.pdf)” and
+    Innocence](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Blake-Songs-of-Innocence-Selections-2.pdf)” and
     *“*[Songs of
-    Experience](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-Blake-Songs-of-Experience-Selections-2.pdf)”
+    Experience](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Blake-Songs-of-Experience-Selections-2.pdf)”
     (PDF)  
         
      Instructions: Read the Songs of Innocence titled, *The Little Boy
@@ -392,7 +392,7 @@ id="2.3.1"></span> 
 <span id="2.3.6"></span> 
 -   **Reading: William Wordsworth’s “The Simplon Pass”**
     Link: William Wordsworth’s “[The Simplon
-    Pass](http://www.saylor.org/site/wp-content/uploads/2014/05/ENGL404-wordsworth-the-simplon-pass.pdf)”
+    Pass](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-wordsworth-the-simplon-pass.pdf)”
     (PDF)  
         
      Instructions: Read Wordsworth’s poem, which is an excerpt from his
@@ -443,11 +443,11 @@ id="2.3.7"></span> 
 -   **Reading: John Keats’ “Ode on a Grecian Urn” and “Ode to a
     Nightingale” and “Ode to Psyche”**
     Links: John Keats’ “[Ode on a Grecian
-    Urn](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-Keats-Ode-on-a-grecian-urn.pdf)”
+    Urn](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Keats-Ode-on-a-grecian-urn.pdf)”
     (PDF) and “[Ode to a
-    Nightingale](http://www.saylor.org/site/wp-content/uploads/2014/05/ENGL404-Keats-Ode-to-a-Nightingale.pdf)”
+    Nightingale](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Keats-Ode-to-a-Nightingale.pdf)”
     (PDF) and “[Ode to
-    Psyche](http://www.saylor.org/site/wp-content/uploads/2014/05/ENGL404-Keats-Ode-to-psyche.pdf)”
+    Psyche](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Keats-Ode-to-psyche.pdf)”
     (PDF)  
         
      Instructions: Read all three poems by Keats. In “Ode on a Grecian
@@ -470,7 +470,7 @@ id="2.3.7"></span> 
     Grecian Urn’ and the Construction of Art”**
     Link: Dr. David Collings’ “[Suspended Satisfaction ‘Ode on a Grecian
     Urn’ and the Construction of
-    Art](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL404-Ode-on-a-Grecian-Urn-Suspended-Satisfaction.pdf)”
+    Art](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Ode-on-a-Grecian-Urn-Suspended-Satisfaction.pdf)”
     (PDF)  
         
      Instructions: Read Dr. David Collings’ essay. Relate your own
