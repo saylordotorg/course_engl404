@@ -50,7 +50,7 @@ Upon successful completion of this unit, you will be able to:
 **3.1.1 A Celebration of the Natural** <span id="3.1.1"></span> 
 -   **Reading: The Saylor Foundation’s “John Keats (1795 - 1821)”**
     Link: The Saylor Foundation’s [“John Keats (1795 -
-    1821)”](https://resources.saylor.org/archived/wp-content/uploads/2013/12/ENGL404-3.1.1-JohnKeats.pdf)
+    1821)”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/12/ENGL404-3.1.1-JohnKeats.pdf)
     (PDF)  
         
      Instructions: Click the link above and read the brief entry on
@@ -60,9 +60,9 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Reading: John Keats’ “Ode to a Nightingale” and “To Autumn”**
     Links: John Keats’ “[Ode to a
-    Nightingale](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Keats-Ode-to-a-Nightingale.pdf)”
+    Nightingale](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/ENGL404-Keats-Ode-to-a-Nightingale.pdf)”
     (PDF) and “[To
-    Autumn](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Keats-To-autumn.pdf)”
+    Autumn](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/ENGL404-Keats-To-autumn.pdf)”
     (PDF)  
         
      Instructions: Read both of Keats’ poems. How are the nightingale
@@ -80,7 +80,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: Anna Laetitia Barbauld’s “A Summer Evening’s
     Meditation”**
     Link: Anna Laetitia Barbauld’s “[A Summer Evening’s
-    Meditation](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Barbauld-A-Summer-Evenings-Meditation.pdf)”
+    Meditation](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL404-Barbauld-A-Summer-Evenings-Meditation.pdf)”
     (PDF)  
         
      Instructions: Read Barbauld’s poem. In what ways do you understand
@@ -97,7 +97,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: William Wordsworth’s “Valedictory Sonnet to the River
     Duddon”**
     Link: William Wordsworth’s [“Valedictory Sonnet to the River
-    Duddon”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/ENGL404-Wordsworth-Valedictory-Sonnet-to-the-River-Duddon.pdf)
+    Duddon”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/ENGL404-Wordsworth-Valedictory-Sonnet-to-the-River-Duddon.pdf)
     (PDF)  
         
      Instructions: Read Wordsworth’s poem. The river was of central
@@ -134,7 +134,7 @@ id="3.1.3"></span> 
 -   **Reading: The Saylor Foundation’s “Lord Byron, George Gordon
     (1788-1823)”**
     Link: The Saylor Foundation’s “[Lord Byron, George Gordon
-    (1788-1823)](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Lord-Byron-Saylor.pdf)”
+    (1788-1823)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL404-Lord-Byron-Saylor.pdf)”
     (PDF)  
         
      Instructions: Read the short article on Byron.  
@@ -162,7 +162,7 @@ id="3.1.3"></span> 
 
 -   **Reading: William Wordsworth’s “Nutting”**
     Link: William Wordsworth’s
-    “[Nutting](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Wordsworth-Nutting.pdf)”
+    “[Nutting](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/ENGL404-Wordsworth-Nutting.pdf)”
     (PDF)  
         
      Instructions: Read Wordsworth’s “Nutting”. In their poems, Byron
@@ -184,7 +184,7 @@ id="3.1.3"></span> 
 -   **Reading: Samuel Taylor Coleridge’s “The Rime of the Ancient
     Mariner”**
     Link: Samuel Taylor Coleridge’s “[The Rime of the Ancient
-    Mariner](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Coleridge-The-Rime-of-the-Ancient-Mariner.pdf)”
+    Mariner](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/ENGL404-Coleridge-The-Rime-of-the-Ancient-Mariner.pdf)”
     (PDF)  
         
      Instructions: Read Coleridge’s poem. In this poem, Coleridge
@@ -203,7 +203,7 @@ id="3.1.3"></span> 
 -   **Reading: The Saylor Foundation’s “Percy Bysshe Shelley
     (1792-1822)”**
     Link: The Saylor Foundation’s “[Percy Bysshe Shelley
-    (1792-1822)](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Percy-Bysshe-Shelley-Saylor.pdf)”
+    (1792-1822)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL404-Percy-Bysshe-Shelley-Saylor.pdf)”
     (PDF)  
         
      Instructions: Please click the link above to read a short article
@@ -213,7 +213,7 @@ id="3.1.3"></span> 
 
 -   **Reading: Percy Bysshe Shelley’s “Ode to the West Wind”**
     Link: Percy Bysshe Shelley’s “[Ode to the West
-    Wind](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Shelley-Ode-to-the-West-Wind.pdf)”
+    Wind](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/ENGL404-Shelley-Ode-to-the-West-Wind.pdf)”
     (PDF)  
         
      Instructions: Read Shelley’s “Ode to the West Wind.” Many critics
@@ -230,7 +230,7 @@ id="3.1.3"></span> 
 Sense** <span id="3.1.7"></span> 
 -   **Reading: William Wordsworth’s “Beggars”**
     Link: William Wordsworth’s
-    “[Beggars](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Wordworth-Beggars.pdf)”
+    “[Beggars](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/ENGL404-Wordworth-Beggars.pdf)”
     (PDF)  
         
      Instructions: Read Wordsworth’s poem. Throughout his poetry,
@@ -248,7 +248,7 @@ and Its Powers** <span id="3.1.8"></span> 
     Vale of Chamouni”**
     Link: Percy Bysshe Shelley’s “[Mont Blanc: Lines Written in the Vale
     of
-    Chamouni](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Shelley-Mont-Blanc.pdf)”
+    Chamouni](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Shelley-Mont-Blanc.pdf)”
     (PDF)  
         
      Instructions: Read Shelley’s poem. Shelley’s poem is deeply
@@ -280,7 +280,7 @@ id="3.1.9"></span> 
 -   **Reading: William Wordsworth’s “She Dwelt Among the Untrodden
     Ways”**
     Link: William Wordsworth’s “[She Dwelt Among the Untrodden
-    Ways](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Wordsworth-SHE-DWELT-AMONG-THE-UNTRODDEN-WAYS.pdf)”
+    Ways](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/ENGL404-Wordsworth-SHE-DWELT-AMONG-THE-UNTRODDEN-WAYS.pdf)”
     (PDF)  
         
      Instructions: Read Wordsworth’s poem. Many critics have argued that
@@ -314,9 +314,9 @@ Urbanization in the Romantic Period** <span id="3.2.1"></span> 
 -   **Reading: William Wordsworth’s “Simon Lee, the Old Huntsman” and
     “The Recluse – Part First”**
     Links: William Wordsworth’s “[Simon Lee, the Old
-    Huntsman](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Wordsworth-Simon-Lee-the-Old-Huntsman.pdf)”
+    Huntsman](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/ENGL404-Wordsworth-Simon-Lee-the-Old-Huntsman.pdf)”
     (PDF) and “[The Recluse - Part
-    First](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-wordsworth-The-recluse-part-first.pdf)”
+    First](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/ENGL404-wordsworth-The-recluse-part-first.pdf)”
     (PDF)  
         
      Instructions: Read both of Wordsworth’s poems. Wordsworth was very
@@ -333,7 +333,7 @@ Urbanization in the Romantic Period** <span id="3.2.1"></span> 
 **3.2.3 The Press of City Life** <span id="3.2.3"></span> 
 -   **Reading: William Blake’s “London”**
     Link: William Blake’s
-    “[London](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Blake-London.pdf)”
+    “[London](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL404-Blake-London.pdf)”
     (PDF)  
         
      Instructions: Read Blake’s poem. In this poem, Blake depicts the
@@ -350,7 +350,7 @@ Urbanization in the Romantic Period** <span id="3.2.1"></span> 
 -   **Reading: Excerpts from Lord George Gordon Byron’s “Childe Harold’s
     Pilgrimage”**
     Link: Excerpts from Lord George Gordon Byron’s “[Childe Harold’s
-    Pilgrimage](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Lord-Byron-Childe-Harolds-Pilgrimage.pdf)”
+    Pilgrimage](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL404-Lord-Byron-Childe-Harolds-Pilgrimage.pdf)”
     (PDF)  
         
      Instructions: Read the introduction and the first full canto (Canto
@@ -370,7 +370,7 @@ Urbanization in the Romantic Period** <span id="3.2.1"></span> 
 id="3.3.2"></span> 
 -   **Reading: Samuel Taylor Coleridge’s “Kubla Khan”**
     Link: Samuel Taylor Coleridge’s “[Kubla
-    Khan](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Coleridge-Kubla-Khan.pdf)”
+    Khan](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL404-Coleridge-Kubla-Khan.pdf)”
     (PDF)  
         
      Instructions: Read Coleridge’s poem. Many critics believe that this
@@ -430,9 +430,9 @@ id="3.4.1"></span> 
 -   **Reading: William Wordsworth’s “Daffodils” and *The Prelude – Book
     First***
     Links: William Wordsworth’s
-    “[Daffodils](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Wordsworth-The-Daffodils.pdf)”
+    “[Daffodils](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/ENGL404-Wordsworth-The-Daffodils.pdf)”
     (PDF) and *[The Prelude - Book
-    First](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Wordsworth-The-Prelude-Book-First.pdf)* (PDF)  
+    First](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/ENGL404-Wordsworth-The-Prelude-Book-First.pdf)* (PDF)  
         
      Instructions: Read both of Wordsworth’s poems. *The Prelude – Book
     First *is a lengthy, autobiographical poem that narrates, in the
@@ -446,7 +446,7 @@ id="3.4.1"></span> 
 
 -   **Reading: Dr. Andrew Burkett’s “Wordsworthian Chance”**
     Link: Dr. Andrew Burkett’s “[Wordsworthian
-    Chance](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Burkett-Wordsworthian-Chance.pdf)”
+    Chance](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL404-Burkett-Wordsworthian-Chance.pdf)”
     (PDF)  
         
      Instructions: Read Dr. Burkett’s essay. What are Wordsworth’s
@@ -467,9 +467,9 @@ id="3.4.2"></span> 
 -   **Reading: Lord Byron’s “Childe Harold’s Pilgrimage: Canto the
     Second” and “Don Juan: Dedication”**
     Links: Lord Byron’s “[Childe Harold's Pilgimage: Canto the
-    Second](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Lord-Byron-Childe-Harolds-Pilgrimage-Canto-the-Second.pdf)”
+    Second](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL404-Lord-Byron-Childe-Harolds-Pilgrimage-Canto-the-Second.pdf)”
     (PDF) and “[Don Juan:
-    Dedication](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Lord-Byron-Don-Juan-Canto-the-First.pdf)”
+    Dedication](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL404-Lord-Byron-Don-Juan-Canto-the-First.pdf)”
     (PDF)  
         
      Instructions: First, read *Childe Harold's Pilgrimage*, which you
@@ -539,7 +539,7 @@ id="3.4.3"></span> 
 **3.4.4 Romanticism and the Apocalypse** <span id="3.4.4"></span> 
 -   **Reading: Lord Byron’s “Darkness”**
     Link: Lord Byron’s
-    “[Darkness](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Lord-Byron-Darkness1.pdf)”
+    “[Darkness](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/ENGL404-Lord-Byron-Darkness1.pdf)”
     (PDF)  
         
      Instructions: Read Byron’s poem. As you read, consider these
@@ -555,7 +555,7 @@ id="3.4.3"></span> 
 
 -   **Reading: P. B. Bysshe Shelley’s “Ozymandius of Egypt”**
     Links: P. B. Shelley’s “[Ozymandias of
-    Egypt](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Shelley-Ozymandias-of-Egypt.pdf)”
+    Egypt](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/ENGL404-Shelley-Ozymandias-of-Egypt.pdf)”
     (PDF)  
         
      Instructions: Read Percy Bysshe Shelley’s poem and consider the
@@ -573,9 +573,9 @@ id="3.4.3"></span> 
     First Book of Urizen”**
     Links: The Cambridge History of English and American Literature’s
     “[Blake: The Urizen
-    Group](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-The-Urizen-Group.pdf)”
+    Group](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/ENGL404-The-Urizen-Group.pdf)”
     (PDF) and William Blake’s “[The First Book of
-    Urizen](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Blake-The-First-Book-of-Urizen.pdf)”
+    Urizen](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/ENGL404-Blake-The-First-Book-of-Urizen.pdf)”
     (PDF)  
         
      Instructions: Read the introduction to William Blake as well as his
