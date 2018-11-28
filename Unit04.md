@@ -89,7 +89,7 @@ Inward Illumination Rather than an Imitation of Life** <span
 id="4.2.1"></span> 
 -   **Reading: William Hazlitt’s “On Poetry in General”**
     Link: William Hazlitt’s “[On Poetry in
-    General](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL404-Hazlitt-On-Poetry-In-General.pdf)”
+    General](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL404-Hazlitt-On-Poetry-In-General.pdf)”
     (PDF)  
         
      Instructions: Read the excerpt. What are Hazlitt’s ideas of poetry
@@ -104,7 +104,7 @@ id="4.2.1"></span> 
 **4.2.2 Inspiration and Intuition** <span id="4.2.2"></span> 
 -   **Reading: Percy Bysshe Shelley’s “A Defence of Poetry”**
     Link: Percy Bysshe Shelley’s “[A Defence of
-    Poetry](https://resources.saylor.org/archived/wp-content/uploads/2014/05/ENGL404-Shelley-a-defence-of-poetry.pdf)”
+    Poetry](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/ENGL404-Shelley-a-defence-of-poetry.pdf)”
     (PDF)  
         
      Instructions: Read Shelley’s essay. In this essay, Shelley explains
